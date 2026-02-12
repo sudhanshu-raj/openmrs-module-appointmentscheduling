@@ -24,7 +24,7 @@ import org.openmrs.module.webservices.rest.web.resource.impl.DataDelegatingCrudR
 import org.openmrs.module.webservices.rest.web.resource.impl.DelegatingResourceDescription;
 import org.openmrs.module.webservices.rest.web.resource.impl.NeedsPaging;
 import org.openmrs.module.webservices.rest.web.response.ResponseException;
-import org.openmrs.module.webservices.validation.ValidationException;
+import org.openmrs.api.ValidationException;
 import org.springframework.validation.BindException;
 import org.springframework.validation.Errors;
 
